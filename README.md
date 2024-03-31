@@ -1,4 +1,4 @@
-# Classic Snake Game
+# Classic Snake Game 
 
 A Python implementation of the classic Snake game using Pygame.
 
