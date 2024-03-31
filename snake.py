@@ -64,3 +64,4 @@ class Snake:
     def enter(self):
         self.start = True
         self.move()
+ 
