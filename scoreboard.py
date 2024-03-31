@@ -33,7 +33,7 @@ class Scoreboard(Turtle):
 
     #    def game_over(self):
     #        self.goto(0, 0)
-    #        self.write("GAME OVER", move=False, align=ALIGNMENT, font=FONT)
+    #        self.write("GAME OVER", move=False, align=ALIGNMENT, font=FONT) 
 
     def readfile(self):
         with open("data.txt", mode="r") as file:
