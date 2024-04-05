@@ -1,6 +1,6 @@
 # Classic Snake Game 
 
-A Python implementation of the classic Snake game using Pygame.
+A Python implementation of the classic Snake game using Turtle Graphics.
 
 ## Overview
 This project demonstrates my proficiency in Python programming and game development using Turtle Graphics.
